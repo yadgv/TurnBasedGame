@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandomRoomGen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c9f142d85f1f8f0c877836d2cfc336427d723b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandomRoomGen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandomRoomGen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
