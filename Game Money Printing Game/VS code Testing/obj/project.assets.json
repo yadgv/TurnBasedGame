@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ziada\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Ethan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ziada\\Downloads\\Game Money Printing Game\\VS code Testing\\RandomRoomGen.csproj",
+      "projectUniqueName": "C:\\Users\\Ethan\\.vscode\\Game\\TurnBasedGame\\Game Money Printing Game\\VS code Testing\\RandomRoomGen.csproj",
       "projectName": "RandomRoomGen",
-      "projectPath": "C:\\Users\\ziada\\Downloads\\Game Money Printing Game\\VS code Testing\\RandomRoomGen.csproj",
-      "packagesPath": "C:\\Users\\ziada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ziada\\Downloads\\Game Money Printing Game\\VS code Testing\\obj\\",
+      "projectPath": "C:\\Users\\Ethan\\.vscode\\Game\\TurnBasedGame\\Game Money Printing Game\\VS code Testing\\RandomRoomGen.csproj",
+      "packagesPath": "C:\\Users\\Ethan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ethan\\.vscode\\Game\\TurnBasedGame\\Game Money Printing Game\\VS code Testing\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ziada\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        "C:\\Users\\Ethan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
